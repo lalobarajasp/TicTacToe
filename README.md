@@ -1,4 +1,4 @@
-# TicTacToe :stop_cat:
+# TicTacToe :smiley_cat:
 
 This project is in charge of simulating the mexican game of "gato".
 
